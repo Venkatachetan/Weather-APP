@@ -1,0 +1,73 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\venka\\OneDrive\\Desktop\\WeatherFrontend\\WeatherFrontend\\bin\\Debug\\net8.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\venka\\OneDrive\\Desktop\\WeatherFrontend\\WeatherFrontend\\obj\\Debug\\net8.0\\scopedcss\\bundle\\WeatherFrontend.styles.css",
+      "PackagePath": "staticwebassets\\WeatherFrontend.styles.css"
+    },
+    {
+      "Id": "C:\\Users\\venka\\OneDrive\\Desktop\\WeatherFrontend\\WeatherFrontend\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\venka\\OneDrive\\Desktop\\WeatherFrontend\\WeatherFrontend\\wwwroot\\css\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\venka\\OneDrive\\Desktop\\WeatherFrontend\\WeatherFrontend\\wwwroot\\css\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\css\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\venka\\OneDrive\\Desktop\\WeatherFrontend\\WeatherFrontend\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\venka\\OneDrive\\Desktop\\WeatherFrontend\\WeatherFrontend\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\venka\\OneDrive\\Desktop\\WeatherFrontend\\WeatherFrontend\\wwwroot\\geolocation.js",
+      "PackagePath": "staticwebassets\\geolocation.js"
+    },
+    {
+      "Id": "C:\\Users\\venka\\OneDrive\\Desktop\\WeatherFrontend\\WeatherFrontend\\wwwroot\\icon-192.png",
+      "PackagePath": "staticwebassets\\icon-192.png"
+    },
+    {
+      "Id": "C:\\Users\\venka\\OneDrive\\Desktop\\WeatherFrontend\\WeatherFrontend\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\venka\\OneDrive\\Desktop\\WeatherFrontend\\WeatherFrontend\\wwwroot\\sample-data\\weather.json",
+      "PackagePath": "staticwebassets\\sample-data\\weather.json"
+    },
+    {
+      "Id": "C:\\Users\\venka\\OneDrive\\Desktop\\WeatherFrontend\\WeatherFrontend\\wwwroot\\supabase.js",
+      "PackagePath": "staticwebassets\\supabase.js"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WeatherFrontend.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.WeatherFrontend.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.WeatherFrontend.props",
+      "PackagePath": "build\\WeatherFrontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.WeatherFrontend.props",
+      "PackagePath": "buildMultiTargeting\\WeatherFrontend.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.WeatherFrontend.props",
+      "PackagePath": "buildTransitive\\WeatherFrontend.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
