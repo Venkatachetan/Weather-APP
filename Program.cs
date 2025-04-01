@@ -15,7 +15,7 @@ builder.RootComponents.Add<HeadOutlet>("head::after");
 builder.Services.AddMudServices();
 builder.Services.AddBlazoredLocalStorage();
 builder.Services.AddScoped<UserHistoryService>();
-builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://localhost:7125/") });
+builder.Services.AddScoped(sp => new HttpClient { BaseAddress = new Uri("https://weatherbackend-j6hf.onrender.com/") });
 
 builder.Services.AddScoped<FavoriteCityService>();
 // Add Authentication services
