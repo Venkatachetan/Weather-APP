@@ -3,16 +3,13 @@ FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
 WORKDIR /app
 
 # Copy the project file first
-COPY WeatherFrontend/WeatherFrontend.csproj WeatherFrontend/
+COPY WeatherFrontend.csproj ./
 
 # Restore dependencies (caching step)
-RUN dotnet restore WeatherFrontend/WeatherFrontend.csproj
+RUN dotnet restore WeatherFrontend.csproj
 
 # Copy all files (ensure your .dockerignore isn't excluding files you need)
 COPY . .
-
-# Set working directory to the project folder
-WORKDIR /app/WeatherFrontend
 
 # Publish the app (adjust output directory as needed)
 RUN dotnet publish -c Release -o /app/out
